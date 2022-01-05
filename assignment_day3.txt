@@ -1,0 +1,65 @@
+For the given JSON iterate over all for loops (for, for in, for of, forEach)
+
+#1: For Loop: 
+Code: 
+
+let cars = ["BMW", "Volvo", "Saab", "Ford"];
+
+for (let i = 0; i < cars.length; i++) {
+  console.log(cars[i]);
+}
+
+Output:
+BMW
+Volvo
+Saab
+Ford
+
+
+#2: For in : 
+Code:
+
+let basic =  {"name": "Chetan More",
+        "label": "Software Developer",
+        "email": "chetan.more2907@gmail.com",
+        "phone": "(+91) 9602631709"}
+  
+  for (let x in basic) {
+   console.log(x + " : " + basic[x]);
+  }
+  
+Output:
+name : Chetan More
+label : Software Developer
+email : chetan.more2907@gmail.com
+phone : (+91) 9602631709
+
+
+
+#3: For of :
+Code:
+let cars = ["BMW", "Volvo", "Saab", "Ford"];
+
+for (let x of cars) {
+  console.log(x);
+}
+
+Output:
+BMW
+Volvo
+Saab
+Ford
+
+
+#4: forEach:
+Code: 
+
+let cars = ["BMW", "Volvo", "Saab", "Ford"];
+  
+cars.forEach(element => console.log(element) )
+
+Output:
+BMW
+Volvo
+Saab
+Ford

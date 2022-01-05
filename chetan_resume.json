@@ -1,0 +1,44 @@
+{
+    "basics": {
+        "name": "Chetan More",
+        "label": "Software Developement Engineer",
+        "email": "chetan.more2907@gmail.com",
+        "phone": "(+91) 9602631709",
+        "summary": "Proactive, diligent and multi-skilled individual, with around 5 years of experience in design and development of Software products.",
+        "location": {
+            "address": "Canopy Calyx, Hebbal",
+            "postalCode": "860066",
+            "city": "Bangalore",
+            "country": "India"
+        }
+    },
+    "skills": {
+        "core": ["Java", "Data Structures", "Alogorithm"],
+        "Technologies": ["MuleSoft", "Kafka", "Angular", "J2ee", "Spring MVC", "Restful webservices"],
+        "Tools": ["Eclipse", "Anypoint Studio"]
+    },
+    "work": [{
+            "name": "Accenture",
+            "Role": "Application Development Analyst",
+            "Designation": "Senior Software Engineer",
+            "startDate": "03-06-2019"
+        }, {
+            "name": "TCS",
+            "Role": "Full Stack Developer",
+            "Designation": "System Engineer",
+            "startDate": "05-01-2017",
+            "endDate": "02-06-2019"
+        }
+    ],
+    "education": [{
+            "institution": "Jaipur Engineering College & Research Centre",
+            "degree": "B.Tech.",
+            "area": "ECE",
+            "startDate": "01-05-2012",
+            "endDate": "30-06-2016",
+            "score": "73.25%"
+        }
+    ],
+    "certifications": ["MuleSoft Certified Developer(MCD) – Level 1"],
+    "interests": ["Learning New Things", "Movies", "Cricket and Chess"]
+}
